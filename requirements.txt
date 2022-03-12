@@ -1,0 +1,7 @@
+botocore==1.24.15
+Flask==2.0.2
+guzzle_sphinx_theme==0.7.11
+jmespath==0.10.0
+pytest==7.0.1
+s3transfer==0.5.2
+setuptools==45.2.0
