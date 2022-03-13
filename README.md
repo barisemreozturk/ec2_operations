@@ -1,2 +1,2 @@
 # ec2_operations
-You can run and stop your instances with this project.
+You can get your intance ids, start and stop your instances with this project.
